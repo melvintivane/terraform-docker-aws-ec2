@@ -33,8 +33,8 @@ deploys a Spring Boot application in a container.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/melvintivane/terraform-docker-aws-ec2.git
+   cd terraform-docker-aws-ec2
    ```  
 2. Initialize Terraform:
    ```sh
